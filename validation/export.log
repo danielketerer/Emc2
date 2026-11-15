@@ -1,0 +1,65 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Godot_v4.7.2-stable_win64_console.exe : ERROR: Method/function failed. Returning: ""
+No linha:3 caractere:1
++ & '..\Teste\.tools\godot\Godot_v4.7.2-stable_win64_console.exe' --hea ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (ERROR: Method/f.... Returning: "":String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+   at: get_filesystem_type (drivers/windows/dir_access_windows.cpp:412)
+ERROR: Method/function failed. Returning: ""
+   at: get_filesystem_type (drivers/windows/dir_access_windows.cpp:412)
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Inicialização do Projeto (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Escaneando estrutura de arquivos...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Carregando nomes de classe globais...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verificando GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Criando scripts autoload...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Inicializando plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Iniciando escaneamento de arquivos...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1msavepack[22m | Started Empacotando (102 steps)[39m[0m
+[   1% ] [90m[1msavepack[22m | Armazenando Arquivo: res://art/background.gdshader[39m[0m
+[   5% ] [90m[1msavepack[22m | Armazenando Arquivo: res://art/electron.gdshader[39m[0m
+[  10% ] [90m[1msavepack[22m | Armazenando Arquivo: res://art/matter.gdshader[39m[0m
+[  15% ] [90m[1msavepack[22m | Armazenando Arquivo: res://art/proton.gdshader[39m[0m
+[  20% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/exported/133200997/export-9b4bd6e4d0f4b17db40e51fd3c7ccd45-atom.res[39m[0m
+[  24% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/exported/133200997/export-f23b49ecc3c1f5d6e24bc141bbc37fa2-electron.res[39m[0m
+[  29% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/exported/133200997/export-0be457cee0ffebb4990de59e4e475437-molecule.res[39m[0m
+[  33% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/exported/133200997/export-f3cee2e451bfdc8b6696820a33d3ef61-proton_material.res[39m[0m
+[  38% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/exported/133200997/export-50b45ce7d30700dd2ee11c0f1cbdeb8c-white.res[39m[0m
+[  42% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/exported/133200997/export-3ad5c15c4f3250da0cc7c1af1770d85f-main.scn[39m[0m
+[  47% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/exported/133200997/export-2a43ee198781d5e452199aee02c2ae07-visual_test.scn[39m[0m
+[  52% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/background.gdc[39m[0m
+[  57% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/crystal.gdc[39m[0m
+[  61% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/crystal_surface.gdc[39m[0m
+[  66% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/form_profile.gdc[39m[0m
+[  70% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/matter_visual.gdc[39m[0m
+[  75% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/player.gdc[39m[0m
+[  79% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/structure.gdc[39m[0m
+[  84% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/target.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/universe.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/world.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://resources/atom.tres.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://resources/electron.tres.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://resources/molecule.tres.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://resources/proton_material.tres.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://resources/white.tres.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scenes/main.tscn.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scenes/visual_test.tscn.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/background.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/crystal.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/crystal_surface.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/form_profile.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/matter_visual.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/player.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/structure.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/target.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/universe.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://scripts/world.gd.remap[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/global_script_class_cache.cfg[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://.godot/uid_cache.bin[39m[0m
+[  94% ] [90m[1msavepack[22m | Armazenando Arquivo: res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m

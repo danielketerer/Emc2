@@ -1,0 +1,7 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS screen-relative steering, increased speed and stable stop
+PASS electron -> H -> H2 and shared proton material
+PASS group collection, orbits, shared H2 visual, save reload and legacy migration
+PASS 16 placements and complete crystal reload
+HEADLESS_VALIDATION_OK

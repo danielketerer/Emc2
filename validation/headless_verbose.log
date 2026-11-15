@@ -1,0 +1,43 @@
+﻿WorkerThreadPool: 12 threads, 3 max low-priority.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+TextServer: Added interface "Dummy"
+TextServer: Added interface "ICU / HarfBuzz / Graphite (Built-in)"
+Using "default" pen tablet driver...
+
+TextServer: Primary interface set to: "ICU / HarfBuzz / Graphite (Built-in)".
+CORE API HASH: 2004498165
+EDITOR API HASH: 1696660745
+Loading resource: res://validation/headless_regression.gd remapped: res://validation/headless_regression.gd
+Loading resource: res://resources/white.tres remapped: res://resources/white.tres
+Completed load for: 'res://resources/white.tres' remapped 'res://resources/white.tres' at thread -1
+Loading resource: res://resources/proton_material.tres remapped: res://resources/proton_material.tres
+Loading resource: res://art/proton.gdshader remapped: res://art/proton.gdshader
+Completed load for: 'res://art/proton.gdshader' remapped 'res://art/proton.gdshader' at thread -1
+Completed load for: 'res://resources/proton_material.tres' remapped 'res://resources/proton_material.tres' at thread -1
+Completed load for: 'res://validation/headless_regression.gd' remapped 'res://validation/headless_regression.gd' at thread -1
+SceneTreeFTI: traversal method DEFAULT
+Loaded system CA certificates
+Loading resource: res://scenes/main.tscn remapped: res://scenes/main.tscn
+Loading resource: res://scripts/world.gd remapped: res://scripts/world.gd
+Loading resource: res://resources/electron.tres remapped: res://resources/electron.tres
+Loading resource: res://scripts/form_profile.gd remapped: res://scripts/form_profile.gd
+Completed load for: 'res://scripts/form_profile.gd' remapped 'res://scripts/form_profile.gd' at thread -1
+Completed load for: 'res://resources/electron.tres' remapped 'res://resources/electron.tres' at thread -1
+Loading resource: res://resources/atom.tres remapped: res://resources/atom.tres
+Completed load for: 'res://resources/atom.tres' remapped 'res://resources/atom.tres' at thread -1
+Loading resource: res://resources/molecule.tres remapped: res://resources/molecule.tres
+Completed load for: 'res://resources/molecule.tres' remapped 'res://resources/molecule.tres' at thread -1
+Loading resource: res://art/matter.gdshader remapped: res://art/matter.gdshader
+Completed load for: 'res://art/matter.gdshader' remapped 'res://art/matter.gdshader' at thread -1
+Loading resource: res://art/background.gdshader remapped: res://art/background.gdshader
+Completed load for: 'res://art/background.gdshader' remapped 'res://art/background.gdshader' at thread -1
+Completed load for: 'res://scripts/world.gd' remapped 'res://scripts/world.gd' at thread -1
+Completed load for: 'res://scenes/main.tscn' remapped 'res://scenes/main.tscn' at thread -1
+PASS screen-relative steering, increased speed and stable stop
+PASS electron -> H -> H2 and shared proton material
+PASS group collection, orbits, shared H2 visual, save reload and legacy migration
+PASS player incorporation, preserved orbit reservoir, guided growth and edge-control reload
+HEADLESS_VALIDATION_OK
+XR: Clearing primary interface
+XR: Removed interface "Native mobile"
+XR: Removed interface "OpenXR"

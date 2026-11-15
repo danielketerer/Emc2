@@ -1,0 +1,7 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 610.88 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3070
+
+PASS steady movement at limit=60 measured_fps=24.896265560166
+PASS steady movement at limit=120 measured_fps=25.5591054313099
+PASS steady movement at limit=144 measured_fps=25.065274151436
+ORBIT_REGRESSION_OK count=3 max_screen_error_px=0.00034526697709

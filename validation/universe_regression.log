@@ -1,0 +1,6 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS empty black beginning, electron burst, delayed protons and automatic atom/H2 formation
+PASS moving matter, opening/world save restoration, reserved sources and paused evolution
+COUNTS atoms=13 H2=288 bound_electrons=590
+UNIVERSE_REGRESSION_OK

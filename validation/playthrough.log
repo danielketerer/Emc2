@@ -1,0 +1,22 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 610.88 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3070
+
+PASS movement, stop, departure, electron -> H -> H2, H2 save/reload
+PASS placement 1/16
+PASS placement 2/16
+PASS placement 3/16
+PASS placement 4/16
+PASS placement 5/16
+PASS placement 6/16
+PASS placement 7/16
+PASS placement 8/16
+PASS placement 9/16
+PASS placement 10/16
+PASS placement 11/16
+PASS placement 12/16
+PASS placement 13/16
+PASS placement 14/16
+PASS placement 15/16
+PASS placement 16/16
+PASS crystal and local save/reload. Simulated play seconds 528.92
+VALIDATION_OK

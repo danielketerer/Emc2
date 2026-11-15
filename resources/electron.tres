@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="FormProfile" load_steps=2 format=3]
+[ext_resource type="Script" path="res://scripts/form_profile.gd" id="1"]
+[resource]
+script = ExtResource("1")
+title = "Elétron livre"
+speed = 360.0
+acceleration = 780.0
+braking = 1400.0
+attraction = 115.0
+field_range = 460.0
+bond_range = 135.0
+zoom = 1.0
